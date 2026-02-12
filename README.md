@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **2k23.csiot2311338@gmail.com** For Collaboration/Project o
 - 📫 **How to reach me:** 2k23.csiot2311338@gmail.com
 - 😄 **Pronouns:** Shashank Dwivedi.
 - ⚡ **Fun fact:** I Love biulding products.
-## 🌐 Socials:
+- ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shashank_20907) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/myself_shashank) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shashank-dwivedi-271094308) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2k23.csiot2311338@gmail.com) 
 
 # 💻 Tech Stack:
