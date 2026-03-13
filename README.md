@@ -3,8 +3,8 @@
 
 Email Me 👉 ✉️ **2k23.csiot2311338@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Flask Project
-- 🌱 **I’m currently learning:** Jinja 2.
+- 🔭 **I’m currently working on:** Python Project
+- 🌱 **I’m currently learning:** Basic python and APIs.
 - 👯 **I’m looking to collaborate on:** AI-FOR=BHARAT-PROJECT.
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** 2k23.csiot2311338@gmail.com
