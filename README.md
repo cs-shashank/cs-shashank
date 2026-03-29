@@ -3,9 +3,9 @@
 
 Email Me 👉 ✉️ **2k23.csiot2311338@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Python Project
-- 🌱 **I’m currently learning:** Basic python and APIs.
-- 👯 **I’m looking to collaborate on:** AI-FOR=BHARAT-PROJECT.
+- 🔭 **I’m currently working on:** RAG Project
+- 🌱 **I’m currently learning:** RAG .
+- 👯 **I’m looking to collaborate on:** RAG-PROJECT.
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** 2k23.csiot2311338@gmail.com
 - 😄 **Pronouns:** Shashank Dwivedi.
