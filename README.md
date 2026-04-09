@@ -1,9 +1,9 @@
 # 💫 Hi 👋, I'm Shashank Dwivedi.
-**Passionate to full stack web development || AWS || RDBMS
+**Passionate to full stack web development || AWS || RDBMS || Startups
 
 Email Me 👉 ✉️ **2k23.csiot2311338@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** RAG Project
+- 🔭 **I’m currently working on:** RAG Project,Startup,DSA......
 - 🌱 **I’m currently learning:** RAG .
 - 👯 **I’m looking to collaborate on:** RAG-PROJECT.
 - 💬 **Ask me about:** Collaboration, Tech Support
